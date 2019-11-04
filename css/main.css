@@ -19,17 +19,21 @@ p {
 }
 
 .img-flex {
-  overflow: hidden;
-  max-height: 500px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 .banner {
   position: relative;
+  overflow: hidden;
+  max-height: 500px;
 }
 
 .banner-content {
   position: absolute;
   bottom: 1em;
-  padding-left: 1em;
+  left: 15em;
   max-width: 50em;
+  padding: 0 1em;
 }
