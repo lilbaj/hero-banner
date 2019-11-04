@@ -25,7 +25,7 @@ p {
   font-size: 2rem;
   font-style: italic;
   padding: 0;
-  margin: .5rem 0 0;
+  margin: .6rem 0 0;
 }
 
 .img-flex {
@@ -46,7 +46,7 @@ p {
   bottom: .5rem;
   left: 50%;
   max-width: 50em;
-  padding: 1.5em;
+  padding: 1.4em;
   transform: translateX(-50%);
   width: 100%;
 }
